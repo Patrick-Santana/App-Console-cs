@@ -1,0 +1,16 @@
+C:\Users\zonaa\Downloads\Rev\bin\Debug\net5.0\Rev.exe
+C:\Users\zonaa\Downloads\Rev\bin\Debug\net5.0\Rev.deps.json
+C:\Users\zonaa\Downloads\Rev\bin\Debug\net5.0\Rev.runtimeconfig.json
+C:\Users\zonaa\Downloads\Rev\bin\Debug\net5.0\Rev.runtimeconfig.dev.json
+C:\Users\zonaa\Downloads\Rev\bin\Debug\net5.0\Rev.dll
+C:\Users\zonaa\Downloads\Rev\bin\Debug\net5.0\ref\Rev.dll
+C:\Users\zonaa\Downloads\Rev\bin\Debug\net5.0\Rev.pdb
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\Rev.csprojAssemblyReference.cache
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\Rev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\Rev.AssemblyInfoInputs.cache
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\Rev.AssemblyInfo.cs
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\Rev.csproj.CoreCompileInputs.cache
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\Rev.dll
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\ref\Rev.dll
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\Rev.pdb
+C:\Users\zonaa\Downloads\Rev\obj\Debug\net5.0\Rev.genruntimeconfig.cache
